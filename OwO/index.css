@@ -1,0 +1,39 @@
+body{
+    background-color: #d9d9d9;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: inline-block;
+}
+
+h3{
+    border-style: solid;
+    border-width: 1px;
+    text-align: center;
+}
+
+button{
+    margin: 4px 2px;
+    padding: 15px;
+    background-color: violet;
+}
+
+img{
+    width: 500px;
+    height: 300px;
+}
+
+footer{
+    border-style: solid;
+    border-width: 1px;
+    text-align: center;
+    background-color: black;
+    color:white;
+}
+
+p {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
